@@ -1,9 +1,9 @@
-## Requirements:
+Requirements:
 
 torch
 fair-esm
 
-## Run
+Run:
 
 please run this command in an folder with the pdb file and change the "1bey.pdb" to your pdb file name:
 
